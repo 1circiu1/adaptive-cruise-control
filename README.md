@@ -87,6 +87,7 @@ adaptive-cruise-control/
 │       ├── video_002/
 │       └── ...
 ├── segmentation_breaking.py     # Dataset loading, preprocessing & frame extraction
+├── modelling.py                 # Model definition, training & evaluation
 └── README.md
 ```
 
